@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fuse8-chuck-norris/static/css/main.7d2d3350.css",
+    "main.js": "/fuse8-chuck-norris/static/js/main.1005102e.js",
+    "static/js/453.b84b6219.chunk.js": "/fuse8-chuck-norris/static/js/453.b84b6219.chunk.js",
+    "index.html": "/fuse8-chuck-norris/index.html",
+    "main.7d2d3350.css.map": "/fuse8-chuck-norris/static/css/main.7d2d3350.css.map",
+    "main.1005102e.js.map": "/fuse8-chuck-norris/static/js/main.1005102e.js.map",
+    "453.b84b6219.chunk.js.map": "/fuse8-chuck-norris/static/js/453.b84b6219.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d2d3350.css",
+    "static/js/main.1005102e.js"
+  ]
+}
